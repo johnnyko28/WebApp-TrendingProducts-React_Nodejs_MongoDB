@@ -13,9 +13,9 @@ The sample data I used is here [Sample Orders](https://docs.google.com/spreadshe
 ![image](DB.jpg)<br /><br />
 
 Frontend: React <br />
-Backend: NodeJS, Express <br />
+Backend: Node.js, Express.js <br />
 Database: MongoDB <br />
 
-I imported the sample data into MongoDB and used NodeJS(Express, Mongoose) to query the data, and generated an RESTful API to display the data. Next, I developed a frontend using React (React-bootstrap) to fetch the data and create this full-stack application.
+I imported the sample data into MongoDB and used Node.js(Express.js, Mongoose) to query the data, and generated a RESTful API to display the data. Next, I developed a frontend using React (React-bootstrap) to fetch the data and created this full-stack application.
 
 To run the app, for the backend server,  under the "backend" folder, run "npm start" and open http://localhost:5000/orders and see the API. For the frontend, under the root folder and run "npm install" and "npm start" and open http://localhost:3000/ to see the app.
