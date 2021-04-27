@@ -1,4 +1,4 @@
-## About The Project
+## About The Project: Trending Products
 
 Assume the customers around a campus order 5000 orders a day from 50 local restaurants. Each order contains one or multiple products. For eg, `2 burritos, a soda, and a side of chips`. To provide a better user experience for users to choose their meals, I designed a full stack application which returns an infinite-scrolling list of trending products to the user. The definition of trending product here is purchased at least once in last 48 hours. This full-Stack solution including web server, backend persistence and associated code.
 
